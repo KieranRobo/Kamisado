@@ -1,0 +1,4 @@
+
+Towers can be moved through other towers.  Against the rules.
+Switching from mouse input to keyboard input causes issues.
+Crash on deadlock (no possible move)
